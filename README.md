@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushipandey54&label=Profile%20views&color=0e75b6&style=flat" alt="aayushipandey54" /> </p>
 
-- 🔭 I’m currently working on **AI Predictive Models for Credit Underwriting**
+- 🔭 I’m currently working on **Rashak.AI**
 
 - 🌱 I’m learning more about **ML,DL,NLP and Data Science library**
 
